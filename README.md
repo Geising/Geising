@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Geising
+- 👀 I’m interested in SAP related topics such as ABAP, RAP, OData, Fiori
